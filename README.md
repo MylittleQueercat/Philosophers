@@ -1,4 +1,4 @@
-# 🍝 Philosophers — 42 Project | 125/125
+# 🍝 Philosophers
 
 ![Score](https://img.shields.io/badge/Score-125%2F125-brightgreen)
 ![Language](https://img.shields.io/badge/Language-C-blue)
