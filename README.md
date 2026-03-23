@@ -1,5 +1,9 @@
 # 🍝 Philosophers — 42 Project | 125/125
 
+![Score](https://img.shields.io/badge/Score-125%2F125-brightgreen)
+![Language](https://img.shields.io/badge/Language-C-blue)
+![42](https://img.shields.io/badge/42-Project-black)
+
 ## 📌 Project Goal
 
 **Philosophers** is a concurrency project from the 42 curriculum based on the classic **Dining Philosophers Problem** (Dijkstra, 1965).
